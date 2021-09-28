@@ -79,7 +79,7 @@
 
 
 .nopadd{
-    
+    height: calc(97vh / 5);
     background-color: #F07F80;
    
 }
