@@ -1,6 +1,11 @@
 .col-1{
     background-color: #FFC0CB;
-    height: 100px;
+    height: calc(100vh / 5);
     border: 1px solid black;
 }
 
+.col-12{
+    background-color: #FFC0CB;
+    height: calc(100vh / 5);
+    border: 1px solid black;
+}
